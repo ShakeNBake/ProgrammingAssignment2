@@ -1,8 +1,7 @@
 ## Use below functions to 
 ## 1. create a special list object that can be used to set a matrix object, 
 ##    retrieve it, set its inverse, and retrieve the inverse.
-## 2. Calculate and cache inverse of a matrix in one 
-## functions do
+## 2. Retrieve a cached inverse of a matrix or, if N/A, calculate and cache it.
 
 ## makeCacheMatrix creates a special "vector", which is really a list 
 ## containing a function to:
